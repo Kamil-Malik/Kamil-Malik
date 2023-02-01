@@ -1,5 +1,6 @@
 ## Hi there, I'am Kamil Malik
 
+[![wakatime](https://wakatime.com/badge/user/a40f3ef0-aa2b-42b1-9763-30327d61a9dd.svg)](https://wakatime.com/@a40f3ef0-aa2b-42b1-9763-30327d61a9dd)
 <div align="center">
   Hi all 👋, I'm Insannur Kamil Malik a regular person who loved to explore new stuff. I would like to explore what can i do with kotlin and how far i can push my self into this language.
   <br><br>
